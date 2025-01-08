@@ -1,0 +1,1526 @@
+ [
+      {
+        "barcode": "100001",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100002",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100003",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100004",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100005",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100006",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100007",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100008",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100009",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100010",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100011",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100012",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100013",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100014",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100015",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100016",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100017",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100018",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100019",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100020",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100021",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100022",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100023",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100024",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100025",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100026",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100027",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100028",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100029",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100030",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100031",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100032",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100033",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100034",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100035",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100036",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100037",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100038",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100039",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100040",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100041",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100042",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100043",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100044",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100045",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100046",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100047",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100048",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100049",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100050",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100051",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100052",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100053",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100054",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100055",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100056",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100057",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100058",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100059",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100060",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100061",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100062",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100063",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100064",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100065",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100066",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100067",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100068",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100069",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100070",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100071",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100072",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100073",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100074",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100075",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100076",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100077",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100078",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100079",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100080",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100081",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100082",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100083",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100084",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100085",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100086",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100087",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100088",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100089",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100090",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100091",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100092",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100093",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100094",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100095",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100096",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100097",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100098",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100099",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100100",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100101",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100102",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100103",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100104",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100105",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100106",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100107",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100108",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100109",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100110",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100111",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100112",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100113",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100114",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100115",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100116",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100117",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100118",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100119",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100120",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100121",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100122",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100123",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100124",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100125",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100126",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100127",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100128",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100129",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100130",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100131",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100132",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100133",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100134",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100135",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100136",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100137",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100138",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100139",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100142",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100143",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100144",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100145",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100146",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100147",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100148",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100149",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100150",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100151",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100152",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100153",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100154",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100155",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100156",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100157",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100158",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100159",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100160",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100161",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100162",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100163",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100164",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100165",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100166",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100167",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100168",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100169",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100170",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100171",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100172",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100173",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100174",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100175",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100176",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100177",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100178",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100179",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100180",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100181",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100182",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100183",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100184",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100185",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100186",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100187",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100188",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100189",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100190",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100191",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100192",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100193",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100194",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100195",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100196",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100197",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100198",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100199",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100200",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100201",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100202",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100203",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100204",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100205",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100206",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100207",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100208",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100209",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      }, {
+        "barcode": "100210",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100211",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100212",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100213",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100214",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100215",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100216",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100217",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100218",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100219",
+        "keyboard_lan": "AZERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "100220",
+        "keyboard_lan": "QWERTY",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      }]

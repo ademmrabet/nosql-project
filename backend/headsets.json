@@ -1,0 +1,1073 @@
+[
+    {
+      "barcode": "300001",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300002",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300003",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300004",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300005",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300006",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300007",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300008",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300009",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300010",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300011",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300012",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300013",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300014",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300015",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300016",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300017",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300018",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300019",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300020",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300021",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300022",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300023",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300024",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300025",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300026",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300027",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300028",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300029",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300030",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300031",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300032",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300033",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300034",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300035",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300036",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300037",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300038",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300039",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300040",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300041",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300042",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300043",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300044",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300045",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300046",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300047",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300048",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300049",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300050",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300051",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300052",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300053",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300054",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300055",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300056",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300057",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300058",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300059",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300060",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300061",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300062",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300063",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300064",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300065",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300066",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300067",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300068",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300069",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300070",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300071",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300072",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300073",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300074",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300075",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300076",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300077",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300078",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300079",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300080",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300081",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300082",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300083",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300084",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300085",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300086",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300087",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300088",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300089",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300090",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300091",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300092",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300093",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300094",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300095",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300096",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300097",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300098",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300099",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300100",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300101",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300102",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300103",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300104",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300105",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300106",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300107",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300108",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300109",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300110",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300111",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300112",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300113",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300114",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300115",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300116",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300117",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300118",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300119",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300120",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300121",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300122",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300123",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300124",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300125",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300126",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300127",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300128",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300129",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300130",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300131",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300132",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300133",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300134",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300135",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300136",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300137",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300138",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300139",
+      "type": "wired",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300140",
+      "type": "wireless",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300141",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300142",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300143",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300144",
+      "type": "wireless",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300145",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300146",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300147",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300148",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300149",
+      "type": "wired",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300150",
+      "type": "wireless",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "300151",
+      "type": "wired",
+      "buy_date": "10/01/2022",
+      "distribution_date": "",
+      "status": "in_stock"
+    },
+    {
+      "barcode": "300152",
+      "type": "wireless",
+      "buy_date": "10/01/2022",
+      "distribution_date": "",
+      "status": "in_stock"
+    },
+    {
+      "barcode": "300190",
+      "type": "wired",
+      "buy_date": "06/04/2024",
+      "distribution_date": "",
+      "status": "in_stock"
+    }
+    ]

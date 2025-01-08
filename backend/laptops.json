@@ -1,0 +1,1202 @@
+ [
+    {
+      "barcode": "400001",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG1234567",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400002",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG2345678",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400003",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG3456789",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400004",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG4567890",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400005",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG5678901",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400006",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG6789012",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400007",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG7890123",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400008",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG8901234",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400009",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG9012345",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400010",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG0123456",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400011",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG1234567",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400012",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG2345678",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400013",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG3456789",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400014",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG4567890",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400015",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG5678901",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400016",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG6789012",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400017",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG7890123",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400018",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG8901234",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400019",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG9012345",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400020",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG0123456",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400021",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG1234567",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400022",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG2345678",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400023",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG3456789",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400024",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG4567890",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400025",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG5678901",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400026",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG6789012",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400027",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG7890123",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400028",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG8901234",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400029",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG9012345",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400030",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG0123456",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400031",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG1234567",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400032",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG2345678",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400033",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG3456789",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400034",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG4567890",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400035",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG5678901",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400036",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG6789012",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400037",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG7890123",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400038",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG8901234",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400039",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG9012345",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400040",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG0123456",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400041",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG1234567",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400042",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG2345678",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400043",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG3456789",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400044",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG4567890",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400045",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG5678901",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400046",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG6789012",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400047",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG7890123",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400048",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG8901234",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400049",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG9012345",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400050",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG0123456",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400051",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG1234567",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400052",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG2345678",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400053",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG3456789",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400054",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG4567890",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400055",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG5678901",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400056",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG6789012",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400057",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG7890123",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400058",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG8901234",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400059",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG9012345",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400060",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG0123456",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400061",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG1234567",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400062",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG2345678",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400063",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG3456789",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400064",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG4567890",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400065",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG5678901",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400066",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG6789012",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400067",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG7890123",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400068",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG8901234",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400069",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG9012345",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400070",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG0123456",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400071",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG1234567",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400072",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG2345678",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400073",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG3456789",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400074",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG4567890",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400075",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG5678901",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400076",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG6789012",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400077",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG7890123",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400078",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG8901234",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400079",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG9012345",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400080",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG0123456",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400081",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG1234567",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400082",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG2345678",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400083",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG3456789",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400084",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG4567890",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400085",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG5678901",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400086",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG6789012",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400087",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG7890123",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400088",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG8901234",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400089",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG9012345",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400090",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG0123456",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400091",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG1234567",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400092",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG2345678",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400093",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG3456789",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400094",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG4567890",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400095",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG5678901",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400096",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG6789012",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400097",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG7890123",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400098",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG8901234",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400099",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG9012345",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400100",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG0123456",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400101",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG1234567",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400102",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG2345678",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400103",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG3456789",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400104",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG4567890",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400105",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG5678901",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400106",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG6789012",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400107",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG7890123",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400108",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG8901234",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400109",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG9012345",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400110",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG0123456",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400111",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG1234567",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400112",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG2345678",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400113",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG3456789",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400114",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG4567890",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400115",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG5678901",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400116",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG6789012",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400117",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG7890123",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400118",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG8901234",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400119",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG9012345",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400120",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG0123456",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400121",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG1234567",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400122",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG2345678",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400123",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG3456789",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400124",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG4567890",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400125",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG5678901",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400126",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG6789012",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400127",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG7890123",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400128",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG8901234",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400129",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG9012345",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400130",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG0123456",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400131",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG1234567",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400132",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG2345678",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400133",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG3456789",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400134",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG4567890",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400135",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG5678901",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400136",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG6789012",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400137",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG7890123",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400138",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG8901234",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400139",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG9012345",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400140",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG0123456",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400141",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG1234567",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400142",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG2345678",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400143",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG3456789",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400144",
+      "name": "HP Elitebook Dragonfly G2",
+      "serial_number": "5CG4567890",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400145",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG5678901",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400146",
+      "name": "HP Elitebook G4",
+      "serial_number": "5CG6789012",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400147",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG7890123",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400148",
+      "name": "HP Elitebook G5",
+      "serial_number": "5CG8901234",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400149",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG9012345",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "400150",
+      "name": "HP Elitebook G6",
+      "serial_number": "5CG0123456",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    }
+  ]

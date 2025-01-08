@@ -1,0 +1,1072 @@
+ [
+    {
+      "barcode": "200001",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200002",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200003",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200004",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200005",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200006",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200007",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200008",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200009",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200010",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200011",
+      "type": "DELL",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200012",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200013",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200014",
+      "type": "DELL",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200015",
+      "type": "HyperX",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200016",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200017",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200018",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200019",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200020",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200021",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200022",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200023",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200024",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200025",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200026",
+      "type": "DELL",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200027",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200028",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200029",
+      "type": "DELL",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200030",
+      "type": "HyperX",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200031",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200032",
+      "type": "DELL",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200033",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200034",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200035",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200036",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200037",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200038",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200039",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200040",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200041",
+      "type": "DELL",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200042",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200043",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200044",
+      "type": "DELL",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200045",
+      "type": "HyperX",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200046",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200047",
+      "type": "DELL",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200048",
+      "type": "HyperX",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200049",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200050",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200051",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200052",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200053",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200054",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200055",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200056",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200057",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200058",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200059",
+      "type": "DELL",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200060",
+      "type": "HyperX",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200061",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200062",
+      "type": "DELL",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200063",
+      "type": "HyperX",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200064",
+      "type": "HP",
+      "buy_date": "06/04/2024",
+      "distribution_date": "09/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200065",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/15/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200066",
+      "type": "HyperX",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/20/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200067",
+      "type": "HP",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/25/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200068",
+      "type": "DELL",
+      "buy_date": "10/01/2022",
+      "distribution_date": "01/30/2023",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200069",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/15/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200070",
+      "type": "HP",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/20/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200071",
+      "type": "DELL",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/25/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200072",
+      "type": "HyperX",
+      "buy_date": "12/02/2023",
+      "distribution_date": "03/30/2024",
+      "status": "distributed"
+    },
+    {
+      "barcode": "200073",
+      "type": "HP",
+      "buy_date": "05/09/2023",
+      "distribution_date": "08/15/2023",
+      "status": "distributed"
+    },{
+        "barcode": "200074",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200075",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200076",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200077",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200078",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200079",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200080",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200081",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200082",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200083",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200084",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200085",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200086",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200087",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200088",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200089",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200090",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200091",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200092",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200093",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200094",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200095",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200096",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200097",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200098",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200099",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200100",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200101",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200102",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200103",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200104",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200105",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200106",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200107",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200108",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200109",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200110",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200111",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200112",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200113",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200114",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200115",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200116",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200117",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200118",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200119",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200120",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200121",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200122",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200123",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200124",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200125",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200126",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200127",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200128",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200129",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200130",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200131",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200132",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200133",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200134",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200135",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200136",
+        "type": "HP",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200137",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200138",
+        "type": "HyperX",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200139",
+        "type": "HP",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200140",
+        "type": "DELL",
+        "buy_date": "05/09/2023",
+        "distribution_date": "08/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200141",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200142",
+        "type": "HP",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200143",
+        "type": "DELL",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/25/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200144",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "09/30/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200145",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/15/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200146",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/20/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200147",
+        "type": "HyperX",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/25/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200148",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "01/30/2023",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200149",
+        "type": "DELL",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/15/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200150",
+        "type": "HyperX",
+        "buy_date": "12/02/2023",
+        "distribution_date": "03/20/2024",
+        "status": "distributed"
+      },
+      {
+        "barcode": "200151",
+        "type": "HP",
+        "buy_date": "10/01/2022",
+        "distribution_date": "",
+        "status": "in_stock"
+      },
+      {
+        "barcode": "200152",
+        "type": "DELL",
+        "buy_date": "10/01/2022",
+        "distribution_date": "",
+        "status": "in_stock"
+      },
+      {
+        "barcode": "200350",
+        "type": "HyperX",
+        "buy_date": "06/04/2024",
+        "distribution_date": "",
+        "status": "in_stock"
+      }
+    ]
