@@ -12,10 +12,12 @@ Voici les étapes principales du projet :
 3. Développement d'une application web avec React.js et Node.js :
     * Backend : un fichier `server.js` pour démarrer le serveur et Nodemon pour un refraîchissement auatomatique en cas de modification. J'ai également ajouté une connexion à la base de données via Mongoose et une route pour récupérer les données
     * Frontend : une application React avec un dossier **Services** (utilisation d'AXIOS pour récupérer les données) et un dossier **components** contenant : 
-        * une table affichant les claviers.
-        * Une page d'acceuil `LandingPage.js`avec une zone de texte permettant d'exécuter des requêtes MongoDB et d'afficher les résultats directement dans l'application.
+        * une table affichant les claviers.[^1]
+        * Une page d'acceuil[^2] `LandingPage.js`avec une zone de texte permettant d'exécuter des requêtes MongoDB et d'afficher les résultats directement dans l'application.
+        [^1]: Component that holds the Keyboard Table View.
+        [^2]: Unable to run the queries please focus on tha.
 >[!NOTE]
->LandingPage is still isn't working as expected there is an issue with fetching data 
+>LandingPage is still isn't working as expected there is an issue with fetching data :frowning_face:
 
 ### Technologies utilisées
 - **React.JS**
