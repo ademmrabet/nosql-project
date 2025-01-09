@@ -14,6 +14,7 @@ Voici les étapes principales du projet :
     * Frontend : une application React avec un dossier **Services** (utilisation d'AXIOS pour récupérer les données) et un dossier **components** contenant : 
         * une table affichant les claviers.[^1]
         * Une page d'acceuil[^2] `LandingPage.js`avec une zone de texte permettant d'exécuter des requêtes MongoDB et d'afficher les résultats directement dans l'application.
+        <video controls src="Enregistrement de l'écran 2025-01-09 203241.mp4" title="Title"></video>
         [^1]: Component that holds the Keyboard Table View.
         [^2]: Unable to run the queries please focus on tha.
 >[!NOTE]
@@ -80,6 +81,7 @@ Voici les étapes principales du projet :
         7. Profitez de l'application!
 
 ### Utilisation
+>[!NOTE]
 > I need to add more videos and pictures here to show case my work
 
 ### Contribution
@@ -89,6 +91,7 @@ Pour contribuer à ce projet :
     3. Envoyez une **pull request**. Si les modifications sont pertinentes, elles seront fusionnées.
 
 ### Licence
+>[!NOTE]
 > Ce Projet n'a pas de licence particulière. Il s'agit simplement d'un projet académique pour rafraîchir mes connaissances.
 
 
