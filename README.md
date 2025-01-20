@@ -89,8 +89,12 @@ https://github.com/user-attachments/assets/050c8d74-d66a-4579-899d-494f9e7ca530
         7. Profitez de l'application!
 
 ### Utilisation
->[!NOTE]
-> I need to add more videos and pictures here to show case my work
+<img width="446" alt="dockerpull" src="https://github.com/user-attachments/assets/f92217d9-5dba-4087-b07d-d579d288bb4b" />
+<img width="685" alt="dockerrun" src="https://github.com/user-attachments/assets/2a2b0f28-a8ea-4fcf-a37e-3954af4640fc" />
+<img width="737" alt="dockerps" src="https://github.com/user-attachments/assets/e93490c0-f93a-4c79-811f-ce5787fad1f3" />
+<img width="358" alt="insterOne" src="https://github.com/user-attachments/assets/a56afcd8-fabd-4dce-a488-f610667e0ca0" />
+<img width="290" alt="findAll" src="https://github.com/user-attachments/assets/48af4333-73eb-4db0-b68e-d42f43d366b4" />
+
 
 ### Contribution
 Pour contribuer à ce projet :
